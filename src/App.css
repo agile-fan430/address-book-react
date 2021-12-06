@@ -1,0 +1,68 @@
+.App {
+  text-align: center;
+}
+
+.app-header {
+  z-index: 20;
+  background: white;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  text-align: center;
+  padding: 20px 20%;
+}
+
+.app-header-title {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.app-header-setting {
+  float: right;
+}
+
+.address-row {
+  border-bottom: 1px solid #dddddd;
+}
+
+.address-row div {
+  margin: 10px auto;
+  border-right: 1px solid #dddddd;
+}
+
+.address-body {
+  border: 1px solid #cccccc;
+  margin-top: 160px;
+  margin-bottom: 50px;
+}
+
+.modal-row {
+  margin-bottom: 20px;
+  margin-right: 15px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.modal-row label {
+  margin-right: 20px;
+}
+
+.modal-thumbnail {
+  margin-top: 20px;
+}
+
+.search-bar {
+  margin: 20px auto;
+}
+
+.search-bar label {
+  margin-right: 30px;
+}
+
+.search-bar input {
+  display: inline-block;
+  width: 50%;
+}
+
+.loader {
+  margin: 20px auto;
+}
